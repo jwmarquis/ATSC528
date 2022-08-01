@@ -1,0 +1,11 @@
+name: atsc528
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - cartopy
+  - matplotlib
+  - notebook
+  - nb_conda_kernels
+  - jupyterlab
+  - jupyter_contrib_nbextensions
