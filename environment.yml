@@ -3,9 +3,10 @@ channels:
   - defaults
 dependencies:
   - python=3.10
-  - cartopy
-  - matplotlib
-  - notebook
-  - nb_conda_kernels
-  - jupyterlab
-  - jupyter_contrib_nbextensions
+  - conda-forge::numpy
+  - conda-forge::matplotlib
+  - conda-forge::cartopy
+  - conda-forge::notebook
+  - conda-forge::nb_conda_kernels
+  - conda-forge::jupyterlab
+  - conda-forge::jupyter_contrib_nbextensions
