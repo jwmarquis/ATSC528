@@ -9,4 +9,3 @@ dependencies:
   - conda-forge::notebook
   - conda-forge::nb_conda_kernels
   - conda-forge::jupyterlab
-  - conda-forge::jupyter_contrib_nbextensions
